@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/WorldMap.unity
+=======
+- path: Assets/Scenes/WorldMap.unity
+>>>>>>> 8579fb242d178f879a994541e436b1b2e5dc34c8
   isLoaded: 1
   isActive: 1
   isSubScene: 0
